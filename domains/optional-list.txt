@@ -26,11 +26,6 @@ us-east-1.amazonaws.com
 # Amazon AWS (???) - whitelist to make Kryptonite work
 sqs.us-east-1.amazonaws.com
 
-# Bild.de
-acdn.adnxs.com
-cdn1.smartadserver.com
-ec-ns.sascdn.com
-
 # DirectTV Now
 js.maxmind.com
 directvnow.com
@@ -97,11 +92,6 @@ zeustracker.abuse.ch
 # Images not loading on aliexpress.com
 ae01.alicdn.com
 
-# Jackbox.tv
-www.google-analytics.com
-google-analytics.com
-ssl.google-analytics.com
-
 # Lotus talk
 lotustalk.com
 www.lotustalk.com
@@ -143,12 +133,6 @@ cwtv-mrss-akamai.cwtv.com
 cwtv-prod-elb.digitalsmiths.net
 redirector.googlevideo.com
 
-# Samsung TV's Amazon Prime Video app
-time.samsungcloudsolution.com
-
-# Samsung smart TV's network issue
-cdn.samsungcloudsolution.com
-
 # SBS Online videos not playing
 www.sbs.com.au
 sbs.com.au
@@ -162,13 +146,6 @@ e7065.e2.akamaiedge.net
 a463.w10.akamai.net
 a790.w16.akamai.net
 
-# Share buttons on websites
-dsms0mj1bbhn4.cloudfront.net
-shareaholic.com
-
-# Sky Go (skygo.sky.de)
-assets.adobedtm.com
-
 # Spotify premium with Denon Heos speakers
 # https://github.com/anudeepND/whitelist/issues/93
 mobile-ap.spotify.com
@@ -177,11 +154,6 @@ upgrade.scdn.com
 market.spotify.com
 spclient.wg.spotify.com
 audio-ake.spotify.com.edgesuite.net
-
-# Target's Weekly Ads
-weeklyad.target.com
-m.weeklyad.target.com
-weeklyad.target.com.edgesuite.net
 
 # UK University application website
 # https://github.com/anudeepND/whitelist/issues/30
@@ -197,10 +169,6 @@ ow.ly
 www.ow.ly
 amzn.to
 amzn.com
-
-# Videos not playing on  arstechnica/wired/vogue/newyorker
-# Note: ads before videos may appear after whitelisting this domain
-d2c8v52ll5s99u.cloudfront.net
 
 # Videos not playing on www.jacquielawson.com
 f1.media.brightcove.com
